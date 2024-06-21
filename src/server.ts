@@ -8,7 +8,7 @@ import {
   listMessages,
   retrieveMessage,
   retrieveRun,
-} from "./openia";
+} from "./openai";
 
 async function main() {
   getRunAnswer();
